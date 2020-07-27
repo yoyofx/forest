@@ -300,14 +300,14 @@ such as  /forest/client/execute/snapshot/trade/192.168.1.1/201901011111111323
 
 ##  Client Libraries 
 
-*   [jforest](https://github.com/busgo/jforest) for Java
-*   [gforest](https://github.com/busgo/gforest) for go
+*   [cat](https://github.com/busgo/cat) for Java sdk
+*   [bus](https://github.com/busgo/bus) for Go sdk
 
 ##  待完善
 
 1.  ~~任务故障转移~~
 2.  ~~任务执行日志收集~~
-3.  任务作业sdk
+3.  ~~任务作业sdk~~
 4.  ~~手动执行任务~~
 5.  ~~任务统计~~
 6.  任务报警
